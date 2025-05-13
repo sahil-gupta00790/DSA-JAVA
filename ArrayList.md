@@ -43,6 +43,9 @@ list.clear();              // Remove all elements
 // Accessing elements
 list.get(index);           // Get element at index
 list.set(index, element);  // Replace element at index
+
+
+Collections.reverse(list);//just reverses the list
 ```
 
 ## Common Methods
